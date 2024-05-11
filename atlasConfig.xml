@@ -1,0 +1,9 @@
+<resources>
+    <string name="realm_app_id">atolog-pcxrm</string>
+    <string name="realm_app_url">https://services.cloud.mongodb.com/groups/656405b98ff1580b1462f081/apps/6599942eaf2bde80bede3f0a</string>
+    <string name="realm_base_url">https://services.cloud.mongodb.com</string>
+    <string name="realm_client_api_base_url">https://us-east-1.aws.services.cloud.mongodb.com</string>
+    <string name="realm_data_api_base_url">https://us-east-1.aws.data.mongodb-api.com</string>
+    <string name="realm_data_explorer_link">https://cloud.mongodb.com/links/656405b98ff1580b1462f081/explorer/AtlasCluster/database/collection/find</string>
+    <string name="realm_data_source_name">mongodb-atlas</string>
+</resources>
