@@ -56,7 +56,7 @@ export const App = () => {
           {dataExplorerLink && (
             <View>
               <Text style={styles.footerText}>
-                You can view your data in MongoDB Atlas:
+                You can view your data in Mongodb Atlas:
               </Text>
               <Text
                 style={[styles.footerText, styles.hyperlink]}
