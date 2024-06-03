@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "mongo_service_name": "mongodb-atlas",
+    "database_name": "db",
+    "collection_name": "Database",
+    "user_id_field": "65f96701565e4a9f37587e07",
+    "on_user_creation_function_name": "onUserCreation"
+}
