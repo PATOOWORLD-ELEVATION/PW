@@ -1,0 +1,7 @@
+{
+    "app_id": "triggers-dxwnhcy",
+    "config_version": 20210101,
+    "name": "Triggers",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "GLOBAL"
+}
