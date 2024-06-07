@@ -4,5 +4,6 @@
     "development_mode_enabled": false,
     "service_name": "PWEdgeServer",
     "database_name": "pwedgeserver",
-    "client_max_offline_days": 30
+    "client_max_offline_days": 30,
+    "is_recovery_mode_disabled": false
 }
