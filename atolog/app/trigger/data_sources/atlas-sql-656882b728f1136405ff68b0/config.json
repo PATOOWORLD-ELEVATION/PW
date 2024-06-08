@@ -1,0 +1,8 @@
+{
+    "name": "atlas-sql-656882b728f1136405ff68b0",
+    "type": "datalake",
+    "config": {
+        "dataLakeName": "atlas-sql-656882b728f1136405ff68b0"
+    },
+    "version": 1
+}

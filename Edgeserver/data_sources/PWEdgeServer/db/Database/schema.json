@@ -1,0 +1,11 @@
+{
+    "title": "Database",
+    "required": [
+        "_id"
+    ],
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        }
+    }
+}

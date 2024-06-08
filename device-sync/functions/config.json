@@ -1,0 +1,11 @@
+[
+    {
+        "name": "resetFunc",
+        "private": false,
+        "can_evaluate": {}
+    },
+    {
+        "name": "authFunc",
+        "private": true
+    }
+]

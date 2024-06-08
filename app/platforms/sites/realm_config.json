@@ -1,0 +1,8 @@
+{
+    "app_id": "platforms-sites-jihhvyx",
+    "config_version": 20210101,
+    "name": "Platforms-Sites",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL",
+    "environment": "production"
+}

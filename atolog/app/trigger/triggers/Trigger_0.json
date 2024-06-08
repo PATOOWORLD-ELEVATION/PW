@@ -1,0 +1,40 @@
+{
+    "name": "Trigger_0",
+    "type": "DATABASE",
+    "disabled": false,
+    "config": {
+        "collection": "",
+        "database": "db",
+        "full_document": true,
+        "full_document_before_change": false,
+        "match": {},
+        "maximum_throughput": false,
+        "operation_types": [
+            "INSERT",
+            "UPDATE",
+            "DELETE",
+            "REPLACE",
+            "CREATE_COLLECTION",
+            "MODIFY_COLLECTION",
+            "RENAME_COLLECTION",
+            "SHARD_COLLECTION",
+            "DROP_COLLECTION",
+            "RESHARD_COLLECTION",
+            "REFINE_COLLECTION_SHARD_KEY",
+            "CREATE_INDEXES",
+            "DROP_INDEXES"
+        ],
+        "project": {},
+        "service_name": "AtlasCluster",
+        "skip_catchup_events": false,
+        "tolerate_resume_errors": false,
+        "unordered": false
+    },
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Atlas_Triggers_Trigger_0_1715392069"
+            }
+        }
+    }
+}

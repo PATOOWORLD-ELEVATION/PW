@@ -1,0 +1,15 @@
+{
+    "api-key": {
+        "name": "api-key",
+        "type": "api-key",
+        "disabled": true
+    },
+    "custom-function": {
+        "name": "custom-function",
+        "type": "custom-function",
+        "disabled": false,
+        "config": {
+            "authFunctionName": "authFunc"
+        }
+    }
+}

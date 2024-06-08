@@ -1,0 +1,10 @@
+{
+    "custom-function": {
+        "name": "custom-function",
+        "type": "custom-function",
+        "disabled": false,
+        "config": {
+            "authFunctionName": "Atlas_Triggers_Trigger_0_1715392069"
+        }
+    }
+}

@@ -2,5 +2,13 @@
     {
         "name": "resetFunc",
         "private": true
+    },
+    {
+        "name": "authFunc",
+        "private": true
+    },
+    {
+        "name": "UnifiedFunction",
+        "private": false
     }
 ]
