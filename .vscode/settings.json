@@ -1,3 +1,4 @@
 {
-    "cmake.options.statusBarVisibility": "visible"
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.sourceDirectory": "D:"
 }
