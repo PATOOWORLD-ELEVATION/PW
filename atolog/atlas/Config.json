@@ -6,4 +6,5 @@
     "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
     "dataExplorerLink": "https://cloud.mongodb.com/links/656405b98ff1580b1462f081/explorer/AtlasCluster/database/collection/find",
     "dataSourceName": "mongodb-atlas"
+    "mongodb+srv": "//<samuel@patooworld.com>:<IAMPAToo@5050>@atlascluster.toacxrl.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster"
 }
