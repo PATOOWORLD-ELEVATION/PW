@@ -9,6 +9,14 @@
         "type": "api-key",
         "disabled": true
     },
+    "custom-function": {
+        "name": "custom-function",
+        "type": "custom-function",
+        "disabled": false,
+        "config": {
+            "authFunctionName": "onUserCreation"
+        }
+    },
     "local-userpass": {
         "name": "local-userpass",
         "type": "local-userpass",
