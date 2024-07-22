@@ -6,6 +6,6 @@
     },
     {
         "name": "authFunc",
-        "private": true
+        "private": false
     }
 ]
