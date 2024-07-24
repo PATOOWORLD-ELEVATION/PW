@@ -1,4 +1,9 @@
 {
     "cmake.options.statusBarVisibility": "visible",
-    "cmake.sourceDirectory": "D:"
+    "cmake.sourceDirectory": "D:",
+    "windowsaistudio.enableRemoteFine-tuningAndInference": true,
+    "windowsaistudio.openAIInferencePort": 3000,
+    "windowsaistudio.playgroundAgentModelStorage": "Azure blob storage",
+    "windowsaistudio.playgroundAgentPipe": "AI Toolkit for visual studio code",
+    "windowsaistudio.workspaceAgentPipe": "AI Toolkit for visual studio code"
 }
