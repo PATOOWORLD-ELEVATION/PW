@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "firebase": "^10.12.4",
-    "ip": "^2.0.1",
     "mongodb": "^6.8.0"
   }
 }
