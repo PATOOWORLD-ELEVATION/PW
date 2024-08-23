@@ -53,8 +53,6 @@ export function WelcomeView(): React.ReactElement {
           placeholder="email"
           onChangeText={setEmail}
           autoCapitalize="none"
-        />
-        <Input
           placeholder="password"
           onChangeText={setPassword}
           secureTextEntry={passwordHidden}
