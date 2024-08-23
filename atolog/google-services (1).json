@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353582361940",
+    "project_id": "mineral-cell-380803",
+    "storage_bucket": "mineral-cell-380803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353582361940:android:72ab0ad7edc1b3eff96cc1",
+        "android_client_info": {
+          "package_name": "com.company.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2XTwPaC1g783lJAwD1B-myIpm_8--H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
