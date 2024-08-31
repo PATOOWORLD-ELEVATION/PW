@@ -19,7 +19,7 @@
         "config": {
             "autoConfirm": true,
             "resetFunctionName": "resetFunc",
-            "runConfirmationFunction": true,
+            "runConfirmationFunction": false,
             "runResetFunction": true
         }
     }
