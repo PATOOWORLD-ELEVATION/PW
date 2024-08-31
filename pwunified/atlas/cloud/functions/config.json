@@ -6,6 +6,10 @@
     },
     {
         "name": "authFunc",
+        "private": true
+    },
+    {
+        "name": "onUserCreation",
         "private": false
     }
 ]
