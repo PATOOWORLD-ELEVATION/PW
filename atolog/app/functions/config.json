@@ -7,5 +7,13 @@
     {
         "name": "resetFunc",
         "private": true
+    },
+    {
+        "name": "onUserCreation",
+        "private": false
+    },
+    {
+        "name": "authFunc",
+        "private": true
     }
 ]

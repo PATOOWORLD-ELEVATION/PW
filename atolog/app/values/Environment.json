@@ -1,0 +1,12 @@
+{
+    "name": "Environment",
+    "value": {
+        "app_id": "atolog-pcxrm",
+        "config_version": 20210101,
+        "name": "ATOLOG",
+        "provider_region": "aws-us-east-1",
+        "deployment_model": "GLOBAL",
+        "environment": "production"
+    },
+    "from_secret": false
+}
