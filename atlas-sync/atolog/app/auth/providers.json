@@ -7,7 +7,15 @@
     "api-key": {
         "name": "api-key",
         "type": "api-key",
-        "disabled": true
+        "disabled": false
+    },
+    "custom-function": {
+        "name": "custom-function",
+        "type": "custom-function",
+        "disabled": false,
+        "config": {
+            "authFunctionName": "authFunc"
+        }
     },
     "local-userpass": {
         "name": "local-userpass",
