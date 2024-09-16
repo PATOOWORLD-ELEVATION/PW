@@ -12,6 +12,21 @@
             "authFunctionName": "authFunc"
         }
     },
+    "custom-token": {
+        "name": "custom-token",
+        "type": "custom-token",
+        "disabled": false,
+        "config": {
+            "audience": [],
+            "jwkURI": "https://services.cloud.mongodb.com",
+            "requireAnyAudience": false,
+            "signingAlgorithm": "",
+            "useJWKURI": true
+        },
+        "secret_config": {
+            "signingKeys": []
+        }
+    },
     "local-userpass": {
         "name": "local-userpass",
         "type": "local-userpass",
