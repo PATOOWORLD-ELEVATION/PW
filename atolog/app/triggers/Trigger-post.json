@@ -1,0 +1,31 @@
+{
+    "name": "Trigger-post",
+    "type": "DATABASE",
+    "disabled": false,
+    "config": {
+        "collection": "posts",
+        "database": "sample_training",
+        "full_document": true,
+        "full_document_before_change": true,
+        "match": {},
+        "maximum_throughput": false,
+        "operation_types": [
+            "INSERT",
+            "UPDATE",
+            "DELETE",
+            "REPLACE"
+        ],
+        "project": {},
+        "service_name": "mongodb-atlas",
+        "skip_catchup_events": true,
+        "tolerate_resume_errors": true,
+        "unordered": false
+    },
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "Endpoint"
+            }
+        }
+    }
+}
